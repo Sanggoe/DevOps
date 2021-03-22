@@ -19,7 +19,7 @@
 ### CI/CD
 
 * [CI/CD란?](./CI_CD.md)
-* Jenkins
+* [Jenkins](./Jenkins.md)
 
 <br/>
 
